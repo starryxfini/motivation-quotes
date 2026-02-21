@@ -9,4 +9,5 @@ def choose_quote():
 
     print(data[str(number)])
 
-choose_quote()
+choose_quote() 
+# just a lil test to see if git works
